@@ -1,4 +1,4 @@
-# random-image
+# any-image
 dummy image designed to draw attention to the need for an actual image
 
 ## Features
@@ -11,7 +11,7 @@ dummy image designed to draw attention to the need for an actual image
 
 ### 1.0.0
 
-Initial release of random-image
+Initial release of any-image
 
 ---
 
@@ -19,7 +19,7 @@ Initial release of random-image
 
 Using npm:
 ```shell
-$ npm i random-image
+$ npm i any-image
 ```
 
 
@@ -27,12 +27,12 @@ $ npm i random-image
 
 In Node.js:
 ```shell
-const {getImage} = require('random-image');
+const {getImage} = require('any-image');
 console.log(getImage(500,300))
 ```
 Or:
 ```shell
-const anyname = require('random-image').default;
+const anyname = require('any-image').default;
 console.log(anyname())
 ```
 
