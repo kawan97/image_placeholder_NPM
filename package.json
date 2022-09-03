@@ -1,0 +1,27 @@
+{
+  "name": "image-placeholder",
+  "version": "1.0.0",
+  "description": " dummy image designed to draw attention to the need for an actual image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawan97/image_placeholder_NPM.git"
+  },
+  "keywords": [
+    "image",
+    "image-placeholder",
+    "placeholder",
+    "placeholder-image",
+    "dummy",
+    "dummy-image"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawan97/image_placeholder_NPM/issues"
+  },
+  "homepage": "https://github.com/kawan97/image_placeholder_NPM#readme"
+}
