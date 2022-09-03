@@ -3,7 +3,7 @@ dummy image designed to draw attention to the need for an actual image
 
 ## Features
 
-* you can generetean image with (getImage(),KDT(500,600)),
+* you can generetean image with (getImage(),getImage(500,600)),
     * getImage() it return an image : width=400 and height=400 ,
     * getImage(500,300) it return an image :  width=500 and height=300
 
