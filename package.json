@@ -1,5 +1,5 @@
 {
-  "name": "image-placeholder",
+  "name": "random-image",
   "version": "1.0.0",
   "description": " dummy image designed to draw attention to the need for an actual image",
   "main": "index.js",
@@ -16,7 +16,10 @@
     "placeholder",
     "placeholder-image",
     "dummy",
-    "dummy-image"
+    "dummy-image",
+    "random-image",
+    "random",
+    "randon-image-generator"
   ],
   "author": "",
   "license": "ISC",

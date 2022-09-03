@@ -1,4 +1,4 @@
-# image-placeholder
+# random-image
 dummy image designed to draw attention to the need for an actual image
 
 ## Features
@@ -11,7 +11,7 @@ dummy image designed to draw attention to the need for an actual image
 
 ### 1.0.0
 
-Initial release of image-placeholder
+Initial release of random-image
 
 ---
 
@@ -19,7 +19,7 @@ Initial release of image-placeholder
 
 Using npm:
 ```shell
-$ npm i image-placeholder
+$ npm i random-image
 ```
 
 
@@ -27,12 +27,12 @@ $ npm i image-placeholder
 
 In Node.js:
 ```shell
-const {getImage} = require('image-placeholder');
+const {getImage} = require('random-image');
 console.log(getImage(500,300))
 ```
 Or:
 ```shell
-const anyname = require('image-placeholder').default;
+const anyname = require('random-image').default;
 console.log(anyname())
 ```
 
