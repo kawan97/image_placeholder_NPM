@@ -35,7 +35,12 @@ Or:
 const anyname = require('any-image').default;
 console.log(anyname())
 ```
-
+Or:
+```shell
+var anyImage = require("any-image")
+const img=anyImage.getImage(155,20)
+console.log(img)
+```
 
 **Enjoy!!**
 
