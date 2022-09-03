@@ -1,6 +1,6 @@
 {
   "name": "any-image",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": " dummy image designed to draw attention to the need for an actual image",
   "main": "index.js",
   "scripts": {
